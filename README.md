@@ -1,4 +1,4 @@
-# Hi there, I'm Nick
+# Hi there, thanks for stopping by
 
 ## My Social Media
 <div id="badges">
@@ -12,6 +12,7 @@
 * Currently working as a Systems Administrator I
 * LPIC-2 certified, working towards LPIC-303
 * Google Cloud certified
+* Solve the odd Kattis problem in my spare time
 * Best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ngrogg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngrogg)
 
 ## Certifications
