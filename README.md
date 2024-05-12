@@ -20,11 +20,7 @@
 * [Google Cloud Professional Cloud Security Engineer certification](https://google.accredible.com/ef25ac86-162b-4bdd-b83a-11c0dcf5a557?key=08e4d2444192811f23b736d501a50e4109c43b536ea29035c1ab0bfb0c5a2a8b)
 
 ## My Statistics
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrogg&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrogg&langs_count=8&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api/?username=ngrogg&count_private=true&theme=merko&showicons=true)]()
-
-<!-- [![My Streaks](https://github-readme-streak-stats.herokuapp.com?user=ngrogg&theme=merko)](https://git.io/streak-stats) -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngrogg&theme=merko&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngrogg&theme=merko)](https://git.io/streak-stats) 
 
