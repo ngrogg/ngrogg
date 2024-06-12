@@ -11,6 +11,7 @@
 * Systems Administrator, Linux enthusiast, aspiring Cloud Security Engineer
 * Currently working as a Systems Administrator with Google Cloud Platform
 * Write BASH scripts to better leverage the Google Cloud Platform
+* Write BASH and Python scripts to streamline my daily work
 * Occasionally solve the odd Kattis problem in my spare time
 * My Gists can be found [here](https://gist.github.com/ngrogg)
 * Best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ngrogg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngrogg)
