@@ -8,7 +8,7 @@
 </div>
 
 ## About Me
-* Systems Administrator, Linux enthusiast, aspiring Cloud Security Engineer
+* Systems Administrator, Linux enthusiast, aspiring Security Engineer
 * Currently working as a Systems Administrator with Google Cloud Platform
 * Write BASH scripts to better leverage the Google Cloud Platform
 * Write BASH and Python scripts to streamline my daily work
