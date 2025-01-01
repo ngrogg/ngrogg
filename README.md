@@ -8,13 +8,13 @@
 </div>
 
 ## About Me
-* Systems Administrator, Linux enthusiast, aspiring Security Engineer
+* Systems Administrator, Linux enthusiast, aspiring Cloud Security Engineer
 * Currently working as a Systems Administrator with Google Cloud Platform
-* Write BASH scripts to better leverage the Google Cloud Platform
-* Write BASH and Python scripts to streamline my daily work
-* Primarily work with BASH, Perl, PowerShell, Python and a little bit of GoLang. 
-* Occasionally solve the odd Kattis problem in my spare time
-* My Gists can be found [here](https://gist.github.com/ngrogg)
+* Work with BASH to better leverage the Google Cloud Platform
+* Work with BASH and Python to streamline daily work
+* Primarily work with BASH, C++, Perl, PowerShell, Python and a little bit of GoLang.
+* Occasionally solve Kattis problems in spare time
+* Gists can be found [here](https://gist.github.com/ngrogg)
 * Best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ngrogg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngrogg)
 
 ## Certifications
@@ -25,5 +25,4 @@
 ## My Statistics
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrogg&langs_count=8&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngrogg&theme=merko)](https://git.io/streak-stats) 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngrogg&theme=merko)](https://git.io/streak-stats)
