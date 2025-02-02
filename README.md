@@ -10,8 +10,8 @@
 * Google Cloud Platform scripts can be found [here](https://github.com/ngrogg/google-cloud-cli-scripts)
 * Kattis problem solutions can be found [here](https://github.com/ngrogg/kattis-solutions)
 * Linux scripts can be found [here](https://github.com/ngrogg/linux-sysadmin-scripts)
-* Windows PowerShell scripts can be found [here](https://github.com/ngrogg/powershell-scripts)
 * Script for upgrading CentOS 7 to Rocky Linux 8 can be found [here](https://github.com/ngrogg/leapp-elevate-centos7-helper)
+* Windows PowerShell scripts can be found [here](https://github.com/ngrogg/powershell-scripts)
 
 ## Languages
 * **BASH**
