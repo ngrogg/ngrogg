@@ -7,6 +7,7 @@
 
 ## Notable Projects
 * Gists can be found [here](https://gist.github.com/ngrogg)
+* Apache Vhost Generator [here](https://github.com/ngrogg/apache-vhost-generator)
 * Google Cloud Platform scripts can be found [here](https://github.com/ngrogg/google-cloud-cli-scripts)
 * Kattis problem solutions can be found [here](https://github.com/ngrogg/kattis-solutions)
 * Linux Sysadmin scripts can be found [here](https://github.com/ngrogg/linux-sysadmin-scripts)
