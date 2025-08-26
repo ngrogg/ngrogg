@@ -34,7 +34,7 @@
 
 ## Certifications
 * [LPIC 2 certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000542974/lkjhd44ryz)
-* [Google Cloud Associate Cloud Engineer certification](https://www.credential.net/02dacf6a-112c-499b-91b0-82f8410be2c3?key=95ba630ca716ce49a6d1b46c863228ee61de239fc46c1adc90b5a3b0fcc95b9a)
+* [Google Cloud Associate Cloud Engineer certification](https://www.credly.com/badges/b5cbfcff-201f-41bb-af19-cc6ece02a271/public_url)
 * [Google Cloud Professional Cloud Security Engineer certification](https://www.credly.com/badges/a7e0b582-4be8-4099-9700-bea332faed74/public_url)
 
 ## Statistics
