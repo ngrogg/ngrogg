@@ -14,8 +14,8 @@
 * Linux Sysadmin scripts can be found [here](https://github.com/ngrogg/linux-sysadmin-scripts)
 * Nginx Vhost Generator [here](https://github.com/ngrogg/nginx-vhost-generator)
 * Script for upgrading CentOS 7 to Rocky Linux 8 can be found [here](https://github.com/ngrogg/leapp-elevate-centos7-helper)
+* Script for upgrading Rocky Linux 8 to Rocky Linux 9 can be found [here](https://github.com/ngrogg/leapp-elevate-rocky8-helper)
 * Windows PowerShell Sysadmin scripts can be found [here](https://github.com/ngrogg/powershell-scripts)
-* WIP - Script for upgrading Rocky Linux 8 to Rocky Linux 9 can be found [here](https://github.com/ngrogg/leapp-elevate-rocky8-helper)
 
 ## Languages
 * **BASH**
