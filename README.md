@@ -13,6 +13,7 @@
 * Linux Server Checker can be found [here](https://github.com/ngrogg/server-checker)
 * Linux Sysadmin scripts can be found [here](https://github.com/ngrogg/linux-sysadmin-scripts)
 * Nginx Vhost Generator [here](https://github.com/ngrogg/nginx-vhost-generator)
+* Perl password checker can be found [here](https://github.com/ngrogg/simple-password-checker)
 * Script for upgrading CentOS 7 to Rocky Linux 8 can be found [here](https://github.com/ngrogg/leapp-elevate-centos7-helper)
 * Script for upgrading Rocky Linux 8 to Rocky Linux 9 can be found [here](https://github.com/ngrogg/leapp-elevate-rocky8-helper)
 * Windows PowerShell Sysadmin scripts can be found [here](https://github.com/ngrogg/powershell-scripts)
@@ -30,7 +31,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 
 ## Certifications
 * [LPIC 2 certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000542974/lkjhd44ryz)
