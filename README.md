@@ -9,6 +9,7 @@
 * Gists can be found [here](https://gist.github.com/ngrogg)
 * Apache Vhost Generator [here](https://github.com/ngrogg/apache-vhost-generator)
 * Dotfiles can be found [here](https://github.com/ngrogg/dotfiles)
+* Godot studies can be found [here](https://github.com/ngrogg/godot-studies)
 * Google Cloud Platform scripts can be found [here](https://github.com/ngrogg/google-cloud-cli-scripts)
 * Kattis problem solutions can be found [here](https://github.com/ngrogg/kattis-solutions)
 * Linux Server Checker can be found [here](https://github.com/ngrogg/server-checker)
