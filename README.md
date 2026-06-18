@@ -4,6 +4,7 @@
 * Systems Administrator, Linux enthusiast, aspiring Cloud Security Engineer
 * Currently working as a Systems Administrator with the Google Cloud Platform
 * Occasionally solve Kattis problems
+* GoDot hobbyist
 
 ## Notable Projects
 * Gists can be found [here](https://gist.github.com/ngrogg)
@@ -23,6 +24,7 @@
 ## Languages
 * **BASH**
 * **C++**
+* **GDScript**
 * **Perl**
 * **PowerShell**
 * **Python**
